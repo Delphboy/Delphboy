@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Henry, a computer scientist and software engineer
+![](https://avatars3.githubusercontent.com/u/3028359?s=460&u=e08769a852b901fef7e3afa146ed5900d14c678b&v=4)
+
+When I'm at a computer I can usually be found working on computer vision projects. For my dissertation I created an automatic alt-text generator to improve accessibility on social media. 
+
+When I'm away from the keyboard, I enjoy music and martial arts.
 
 <!--
 **Delphboy/Delphboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
