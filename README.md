@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Henry,
 
-When I'm at a computer I can usually be found working on computer vision projects. For my dissertation I created an automatic alt-text generator to improve accessibility on social media. 
+I'm currently studying for a PhD in Computer Science at Queen Mary University London, researching how Graph Neural Networks can be applied to scene understanding tasks like image captioning. Read more about what I'm up to on my [website](https://www.henrysenior.com/).
 
 When I'm away from the keyboard, I enjoy music and martial arts.
